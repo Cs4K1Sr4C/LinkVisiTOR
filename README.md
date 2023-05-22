@@ -1,4 +1,4 @@
-# 🌐 VisiTOR .:: Simple TOR Circuit Renewal and Web Scraping 🕷️
+# 🌐 VisiTOR .:. Simple TOR Circuit Renewal and Web Scraping 🕷️
 
 ### A Python script to perform web scraping through TOR network by renewing TOR circuits. This script allows you to change your IP address and scrape websites anonymously using TOR.
 
